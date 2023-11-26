@@ -2,3 +2,5 @@ image_processing/
 face_recognition/recognize_leaders/assets/
 .DS_Store
 .DS_Store/
+**/assets
+.gitignore
